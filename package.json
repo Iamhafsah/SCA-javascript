@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.3",
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0"
+  },
+  "name": "sca-javascript",
+  "description": "For everything related to She Code Africa JavaScript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3",
+    "chokidar": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamhafsah/SCA-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamhafsah/SCA-javascript/issues"
+  },
+  "homepage": "https://github.com/Iamhafsah/SCA-javascript#readme"
+}
